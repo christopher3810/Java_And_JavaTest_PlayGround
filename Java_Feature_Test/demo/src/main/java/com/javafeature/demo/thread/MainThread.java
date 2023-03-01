@@ -1,9 +1,12 @@
 package com.javafeature.demo.thread;
 
+import lombok.extern.slf4j.Slf4j;
+
+@Slf4j
 public class MainThread {
 
     public static void main(String... mainThread) {
-        System.out.println(Thread.currentThread().getName());
+        log.info(Thread.currentThread().getName());
     }
 
 }
