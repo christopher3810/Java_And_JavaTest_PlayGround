@@ -20,6 +20,13 @@ We also have studies for learning Kotlin and migrating between Java and kotlin.
 - java
   - record
   - thread
+    - Demon & non-demon thread
+    - thread priority
+    - excutor thread
+    - ScheduledExecutor thread
+    - Futures
+    - Completable thread & completableFuture Thread
+    - CompletableFuture Async thread & CompletableFuture Async and Apply thread
 
 
 [testRoot](https://github.com/christopher3810/JavaAndKotlin/tree/master/Java_Feature_Test/demo/src/test/java/com/javafeature)
