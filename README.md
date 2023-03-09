@@ -19,14 +19,22 @@ We also have studies for learning Kotlin and migrating between Java and kotlin.
 [demoCodes](https://github.com/christopher3810/JavaAndKotlin/tree/master/Java_Feature_Test/demo/src/main/java/com/javafeature/demo)
 - java
   - record
+  - annotation
+    - typeParameter
+    - typeUse
+    - Reapeatable 
   - thread
     - Demon & non-demon thread
     - thread priority
-    - excutor thread
-    - ScheduledExecutor thread
     - Futures
+    - excutorService thread
+      - invokeAll, invokeAny
+    - ScheduledExecutorService thread
     - Completable thread & completableFuture Thread
-    - CompletableFuture Async thread & CompletableFuture Async and Apply thread
+    - CompletableFuture Async thread & CompletableFuture Async and Apply thread & ThenCompose
+    - VolatileKeyWord
+  - Vector API
+    - [JEP 438: Vector API (Fifth Incubator)](https://openjdk.org/jeps/438)
 
 
 [testRoot](https://github.com/christopher3810/JavaAndKotlin/tree/master/Java_Feature_Test/demo/src/test/java/com/javafeature)
