@@ -35,7 +35,7 @@ We also have studies for learning Kotlin and migrating between Java and kotlin.
     - VolatileKeyWord
   - Vector API
     - [JEP 438: Vector API (Fifth Incubator)](https://openjdk.org/jeps/438)
-
+  - SealedClass
 
 [testRoot](https://github.com/christopher3810/JavaAndKotlin/tree/master/Java_Feature_Test/demo/src/test/java/com/javafeature)
 - test code root
