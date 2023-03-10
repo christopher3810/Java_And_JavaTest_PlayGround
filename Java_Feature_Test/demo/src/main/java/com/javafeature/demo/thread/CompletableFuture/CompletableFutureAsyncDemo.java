@@ -4,8 +4,10 @@ import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.ExecutionException;
 import lombok.extern.slf4j.Slf4j;
 
+//java 8
+
 @Slf4j
-public class CompletableFutureAsyncDemo {
+public class  CompletableFutureAsyncDemo {
 
     public static void main(String[] args) throws ExecutionException, InterruptedException {
         CompletableFuture<Void> voidFuture = CompletableFuture.runAsync(() -> {

@@ -3,7 +3,6 @@ package com.javafeature.demo.annotation;
 import java.util.Arrays;
 import java.util.List;
 
-
 @DuplicatedChicken("양념")
 @DuplicatedChicken("치즈")
 public class annotationTestMain {

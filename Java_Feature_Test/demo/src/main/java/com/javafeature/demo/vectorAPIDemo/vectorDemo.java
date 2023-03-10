@@ -5,6 +5,8 @@ import jdk.incubator.vector.FloatVector;
 import jdk.incubator.vector.VectorSpecies;
 import lombok.extern.slf4j.Slf4j;
 
+// incubating and first java 16
+
 @Slf4j
 public class vectorDemo {
 

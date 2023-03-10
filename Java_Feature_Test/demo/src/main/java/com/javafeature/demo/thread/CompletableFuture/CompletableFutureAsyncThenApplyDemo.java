@@ -4,6 +4,8 @@ import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.ExecutionException;
 import lombok.extern.slf4j.Slf4j;
 
+//java 8
+
 @Slf4j
 public class CompletableFutureAsyncThenApplyDemo {
     public static void main(String[] args) throws ExecutionException, InterruptedException {

@@ -6,7 +6,7 @@ import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
 @Retention(RetentionPolicy.RUNTIME)
-@Target(ElementType.TYPE_PARAMETER) //제네릭을 만들때 타입
+@Target(ElementType.TYPE_PARAMETER) //java8
 public @interface Chicken {
 
 
