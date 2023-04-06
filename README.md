@@ -1,11 +1,12 @@
-# Java Play Ground🚀
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/61622657/230389896-14015459-6050-429e-b563-e2fdecaabbfb.jpeg" width="250" height="250">
-<h3> Overview 🌟 </h3>
+<h3>Java Play Ground</h3>
 </div>
 
 ***
+
+## Overview 🌟
 
 이 리포지토리는 Java와 Kotlin 프로그래밍 언어를 학습하고 이 두 언어 간의 마이그레이션을 위한 리소스를 제공합니다. Java 기능, 리팩토링, 코드 학습, 새로운 기능 학습, 그리고 직접 작성한 예제 테스트 코드가 포함되어 있습니다.
 
