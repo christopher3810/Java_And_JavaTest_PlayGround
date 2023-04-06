@@ -1,13 +1,15 @@
-# JavaAndKotlin ☕️🚀
+# Java Play Ground🚀
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/61622657/222023854-a45badab-1773-4a7d-8c68-8032d2100624.png" alt="Java Banner"> </p>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/61622657/230389896-14015459-6050-429e-b563-e2fdecaabbfb.jpeg" width="250" height="250">
+<h3> Overview 🌟 </h3>
+</div>
 
-[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/) 
-## Overview 🌟
+***
 
-이 리포지토리는 Java와 Kotlin 프로그래밍 언어를 학습하고 이 두 언어 간의 마이그레이션을 위한 리소스를 제공합니다. Java 기능, 리팩토링, 코드 학습, 새로운 기능 학습, 그리고 직접 작성한 예제 테스트 코드가 포함되어 있습니다. 또한 Kotlin 학습 자료도 제공하고 있습니다.
+이 리포지토리는 Java와 Kotlin 프로그래밍 언어를 학습하고 이 두 언어 간의 마이그레이션을 위한 리소스를 제공합니다. Java 기능, 리팩토링, 코드 학습, 새로운 기능 학습, 그리고 직접 작성한 예제 테스트 코드가 포함되어 있습니다.
 
-This repository is dedicated to learning the Java and Kotlin programming languages and providing resources for migrating between the two languages. It includes studying Java features, refactoring, learning code, learning new features, and writing example test code. Resources for learning Kotlin are also provided.
+This repository is dedicated to learning the Java and Kotlin programming languages and providing resources for migrating between the two languages. It includes studying Java features, refactoring, learning code, learning new features, and writing example test code. 
 
 ## Code Directory 📁
 
