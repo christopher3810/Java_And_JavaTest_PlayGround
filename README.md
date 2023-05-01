@@ -8,9 +8,9 @@
 
 ## Overview 🌟
 
-이 리포지토리는 Java와 Kotlin 프로그래밍 언어를 학습하고 이 두 언어 간의 마이그레이션을 위한 리소스를 제공합니다. Java 기능, 리팩토링, 코드 학습, 새로운 기능 학습, 그리고 직접 작성한 예제 테스트 코드가 포함되어 있습니다.
+이 리포지토리는 Java 언어를 학습하고  리소스를 제공합니다. 
 
-This repository is dedicated to learning the Java and Kotlin programming languages and providing resources for migrating between the two languages. It includes studying Java features, refactoring, learning code, learning new features, and writing example test code. 
+Java 기능, 리팩토링, 코드 학습, 새로운 기능 학습, 그리고 직접 작성한 예제 테스트 코드가 포함되어 있습니다.
 
 ## Code Directory 📁
 
