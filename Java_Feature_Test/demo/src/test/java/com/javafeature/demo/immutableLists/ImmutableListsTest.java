@@ -2,7 +2,9 @@ package com.javafeature.demo.immutableLists;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+import com.google.common.collect.ImmutableList;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 import org.junit.jupiter.api.Test;
@@ -76,4 +78,31 @@ class ImmutableListsTest {
         assertEquals(2, immutableList.size());
 
     }
+
+    @Test
+    public void givenUsingJava9_whenNullElement_thenThrowsException() {
+        List<String> list = new ArrayList<>(Arrays.asList("one", "two", "three", null));
+        assertThrows(NullPointerException.class, () -> List.of(list.toArray(new String[]{})));
+    }
+
+    @Test
+    public void givenUsingGuava_whenNullElement_thenNoException() {
+        List<String> list = new ArrayList<>(Arrays.asList("one", "two", "three", null));
+        assertThrows(NullPointerException.class, () -> ImmutableList.copyOf(list).add("four"));
+    }
+
+    @Test
+    public void givenUsingUnmodifiableList_whenAddElement_thenUnmodifiableListReflectsChange() {
+        List<String> list = new ArrayList<>(Arrays.asList("one", "two", "three"));
+        List<String> unmodifiableList = Collections.unmodifiableList(list);
+        list.add("four");
+
+        assertEquals(4, unmodifiableList.size());
+        assertEquals("one", unmodifiableList.get(0));
+        assertEquals("two", unmodifiableList.get(1));
+        assertEquals("three", unmodifiableList.get(2));
+        assertEquals("four", unmodifiableList.get(3));
+    }
+
+
 }
