@@ -15,6 +15,7 @@ Java 기능, 리팩토링, 코드 학습, 새로운 기능 학습, 그리고 직
 ## Code Directory 📁
 
 [demoCodes](https://github.com/christopher3810/JavaAndKotlin/tree/master/Java_Feature_Test/demo/src/main/java/com/javafeature/demo)
+[testCodes](https://github.com/christopher3810/JavaPlayGround/tree/master/Java_Feature_Test/demo/src/test/java/com/javafeature/test)
 
 ### Java Topics
 
