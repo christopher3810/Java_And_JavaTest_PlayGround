@@ -34,3 +34,4 @@ Java 기능, 리팩토링, 코드 학습, 새로운 기능 학습, 그리고 직
 -   **Vector API**: Explore the [JEP 438: Vector API (Fifth Incubator)](https://openjdk.org/jeps/438).
 -   **SealedClass**: Learn about sealed classes in Java.
 -   **Immutable List** : compare immutable lists.
+-   **AutoCloseable**
