@@ -1,4 +1,4 @@
-package com.javafeature.demo.Map;
+package com.javafeature.demo.map;
 
 import java.util.HashMap;
 import java.util.LinkedHashMap;
