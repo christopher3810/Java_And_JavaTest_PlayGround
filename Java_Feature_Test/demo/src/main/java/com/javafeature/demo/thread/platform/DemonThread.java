@@ -1,4 +1,4 @@
-package com.javafeature.demo.thread;
+package com.javafeature.demo.thread.platform;
 
 import java.util.stream.IntStream;
 import lombok.extern.slf4j.Slf4j;

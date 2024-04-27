@@ -1,4 +1,4 @@
-package com.javafeature.demo.thread;
+package com.javafeature.demo.thread.platform;
 
 import lombok.extern.slf4j.Slf4j;
 @Slf4j
